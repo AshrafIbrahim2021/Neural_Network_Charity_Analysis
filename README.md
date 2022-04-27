@@ -35,4 +35,4 @@ Compiling, Training, and Evaluating the Model
 
 
 ## Summary
-   the accuracy of this analysis is  %57.93.
+   the accuracy of this analysis is  %72.66
